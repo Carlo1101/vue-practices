@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "welcome to the new blog",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam voluptatibus velit, aspernatur labore ipsam incidunt, vitae consectetur omnis aut illum nisi fuga. Eos quis similique porro? Nisi facere, architecto quod voluptate repudiandae eveniet facilis amet, unde repellendus praesentium voluptatem exercitationem eum fugit illum minima laboriosam, recusandae vero delectus ullam dolor incidunt. Perferendis dolorum consequatur, officiis error cupiditate tenetur aliquam aperiam corrupti iste illo voluptatem? Quo consequuntur, obcaecati sit in accusantium molestiae doloremque placeat voluptatem distinctio alias eius dicta dolorem debitis excepturi quis iusto voluptates inventore, voluptas dignissimos velit eaque explicabo at repudiandae. Quis minima et repellat omnis officiis consequatur enim.",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "top 5 CSS tips",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam voluptatibus velit, aspernatur labore ipsam incidunt, vitae consectetur omnis aut illum nisi fuga. Eos quis similique porro? Nisi facere, architecto quod voluptate repudiandae eveniet facilis amet, unde repellendus praesentium voluptatem exercitationem eum fugit illum minima laboriosam, recusandae vero delectus ullam dolor incidunt. Perferendis dolorum consequatur, officiis error cupiditate tenetur aliquam aperiam corrupti iste illo voluptatem? Quo consequuntur, obcaecati sit in accusantium molestiae doloremque placeat voluptatem distinctio alias eius dicta dolorem debitis excepturi quis iusto voluptates inventore, voluptas dignissimos velit eaque explicabo at repudiandae. Quis minima et repellat omnis officiis consequatur enim.",
+            "tags": [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}
